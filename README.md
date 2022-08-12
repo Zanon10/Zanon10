@@ -1,7 +1,7 @@
 # Sobre mim
 - 👋 Ola, meu nome é @Zanon10
 - :+1: Meu email para contato é joao.zanon.costa@escola.pr.gov.br
-- 👀 Estou enteressado em aprender a programar novas linguagens
+- 👀 Estou interessado em aprender a programar novas linguagens
 - 🌱 Estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
 <!---
 Zanon10/Zanon10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
